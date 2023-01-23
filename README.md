@@ -203,7 +203,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### B
 
@@ -272,7 +272,7 @@
     <p></p>
   </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### C
 
@@ -541,7 +541,7 @@
     <p></p>
   </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### D
 
@@ -618,7 +618,7 @@
     <p></p>
   </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### E
 
@@ -743,7 +743,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### F
 
@@ -860,7 +860,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### G
 
@@ -969,7 +969,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### H
 
@@ -1054,7 +1054,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### I
 
@@ -1099,7 +1099,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### J
 
@@ -1200,7 +1200,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### K
 
@@ -1269,7 +1269,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### L
 
@@ -1418,7 +1418,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### M
 
@@ -1627,7 +1627,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### N
 
@@ -1724,7 +1724,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### O
 
@@ -1849,7 +1849,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### P
 
@@ -2106,7 +2106,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### Q
 
@@ -2143,7 +2143,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### R
 
@@ -2240,7 +2240,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### S
 
@@ -2525,7 +2525,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### T
 
@@ -2638,7 +2638,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### U
 
@@ -2671,7 +2671,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### V
 
@@ -2716,7 +2716,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### W
 
@@ -2749,7 +2749,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### X
 
@@ -2822,7 +2822,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### Y
 
@@ -2839,7 +2839,7 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**
 
 ### Z
 
@@ -2884,4 +2884,4 @@
   <p></p>
 </details>
 
-**[GO TO TOP](#programming-languages)**
+**[Go to Top](#programming-languages)**

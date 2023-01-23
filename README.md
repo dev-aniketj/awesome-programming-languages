@@ -2,32 +2,7 @@
 
 ## Programming Languages
 
-**[A](#a)&nbsp;&nbsp;&nbsp;
-[B](#b)&nbsp;&nbsp;&nbsp;
-[C](#c)&nbsp;&nbsp;&nbsp;
-[D](#d)&nbsp;&nbsp;&nbsp;
-[E](#e)&nbsp;&nbsp;&nbsp;
-[F](#f)&nbsp;&nbsp;&nbsp;
-[G](#g)&nbsp;&nbsp;&nbsp;
-[H](#h)&nbsp;&nbsp;&nbsp;
-[I](#i)&nbsp;&nbsp;&nbsp;
-[J](#j)&nbsp;&nbsp;&nbsp;
-[K](#k)&nbsp;&nbsp;&nbsp;
-[L](#l)&nbsp;&nbsp;&nbsp;
-[M](#m)&nbsp;&nbsp;&nbsp;
-[N](#n)&nbsp;&nbsp;&nbsp;
-[O](#o)&nbsp;&nbsp;&nbsp;
-[P](#p)&nbsp;&nbsp;&nbsp;
-[Q](#q)&nbsp;&nbsp;&nbsp;
-[R](#r)&nbsp;&nbsp;&nbsp;
-[S](#s)&nbsp;&nbsp;&nbsp;
-[T](#t)&nbsp;&nbsp;&nbsp;
-[U](#u)&nbsp;&nbsp;&nbsp;
-[V](#v)&nbsp;&nbsp;&nbsp;
-[W](#w)&nbsp;&nbsp;&nbsp;
-[X](#x)&nbsp;&nbsp;&nbsp;
-[Y](#y)&nbsp;&nbsp;&nbsp;
-[Z](#z)**
+### [A](#a)&nbsp;&nbsp;&nbsp; [B](#b)&nbsp;&nbsp;&nbsp; [C](#c)&nbsp;&nbsp;&nbsp; [D](#d)&nbsp;&nbsp;&nbsp; [E](#e)&nbsp;&nbsp;&nbsp; [F](#f)&nbsp;&nbsp;&nbsp; [G](#g)&nbsp;&nbsp;&nbsp; [H](#h)&nbsp;&nbsp;&nbsp; [I](#i)&nbsp;&nbsp;&nbsp; [J](#j)&nbsp;&nbsp;&nbsp; [K](#k)&nbsp;&nbsp;&nbsp; [L](#l)&nbsp;&nbsp;&nbsp; [M](#m)&nbsp;&nbsp;&nbsp; [N](#n)&nbsp;&nbsp;&nbsp; [O](#o)&nbsp;&nbsp;&nbsp; [P](#p)&nbsp;&nbsp;&nbsp; [Q](#q)&nbsp;&nbsp;&nbsp; [R](#r)&nbsp;&nbsp;&nbsp; [S](#s)&nbsp;&nbsp;&nbsp; [T](#t)&nbsp;&nbsp;&nbsp; [U](#u)&nbsp;&nbsp;&nbsp; [V](#v)&nbsp;&nbsp;&nbsp; [W](#w)&nbsp;&nbsp;&nbsp; [X](#x)&nbsp;&nbsp;&nbsp; [Y](#y)&nbsp;&nbsp;&nbsp; [Z](#z)
 
 ### A
 

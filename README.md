@@ -1230,43 +1230,67 @@
 ### K
 
 - <details>
-    <summary></summary>
+    <summary>K</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Kaleidoscope</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Karel</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>KEE</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Kixtart</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Klerer-May System</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>KIF (Knowledge Interchange Format)</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Kojo</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Kotlin</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>KRC</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>KRL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>KRL (KUKA Robot Language)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>KRYPTON</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>KornShell (ksh)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Kodu</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Kv (Kivy)</summary>
     <p></p>
   </details>
 
@@ -1275,43 +1299,147 @@
 ### L
 
 - <details>
-    <summary></summary>
+    <summary>LabVIEW</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Ladder</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>LANSA</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Lasso</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Lava</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>LC-3</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Lean</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Legoscript</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>LIL</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>LilyPond</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Limbo</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Limnor</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LINC</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lingo</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LINQ</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LIS</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LISA</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Language H</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lisp – ISO/IEC 13816</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lite-C</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lithe</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Little b</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LLL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Logo</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Logtalk</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LotusScript</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LPC</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LSE</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LSL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LiveCode</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LiveScript</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lua</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lucid</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lustre</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>LYaPAS</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Lynx</summary>
     <p></p>
   </details>
 
@@ -1320,43 +1448,207 @@
 ### M
 
 - <details>
-    <summary></summary>
+    <summary>M Formula language</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>M2001</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>M4</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>M#</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Machine code</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>MAD (Michigan Algorithm Decoder)</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>MAD/I</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Magik</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Magma</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Máni</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Maple</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MAPPER (now part of BIS)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MARK-IV (now VISION:BUILDER)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mary</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MATLAB</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MASM Microsoft Assembly x86</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MATH-MATIC</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Maude system</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Maxima (see also Macsyma)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Max (Max Msp – Graphical Programming Environment)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MaxScript internal language 3D Studio Max</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Maya (MEL)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MDL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mercury</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mesa</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MHEG-5 (Interactive TV programming language)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Microcode</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Microsoft Power Fx</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MIIS</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Milk (programming language)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MIMIC</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mirah</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Miranda</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MIVA Script</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>ML</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Model 204</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Modelica</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Malbolge</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Modula</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Modula-2</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Modula-3</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mohol</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MOO</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mortran</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mouse</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MPD</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MSL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MUMPS</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>MuPAD</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mutan</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Mystic Programming Language (MPL)</summary>
     <p></p>
   </details>
 
@@ -1365,51 +1657,95 @@
 ### N
 
 - <details>
-    <summary></summary>
+    <summary>NASM</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Napier88</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Neko</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Nemerle</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NESL</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Net.Data</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NetLogo</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NetRexx</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NewLISP</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NEWP</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Newspeak</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>NewtonScript</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Nial</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Nickle (NITIN)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Nim</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Nix (Systems configuration language)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>NPL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Not eXactly C (NXC)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Not Quite C (NQC)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>NSIS</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Nu</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>NWScript</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>NXT-G</summary>
     <p></p>
   </details>
 
@@ -1418,51 +1754,123 @@
 ### O
 
 - <details>
-    <summary></summary>
+    <summary>o:XML</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Oak</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Oberon</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>OBJ2</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Object Lisp</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>ObjectLOGO</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Object REXX</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Object Pascal</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Objective-C</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>Obliq</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>OCaml</summary>
     <p></p>
   </details>
 - <details>
-    <summary></summary>
+    <summary>occam</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>occam-π</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Octave</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OmniMark</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Opa</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Opal</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Open Programming Language (OPL)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OpenCL</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OpenEdge Advanced Business Language (ABL)</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OpenVera</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OpenQASM</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OPS5</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>OptimJ</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Orc</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>ORCA/Modula-2</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Oriel</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Orwell</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Oxygene</summary>
+    <p></p>
+  </details>
+- <details>
+    <summary>Oz</summary>
     <p></p>
   </details>
 
@@ -1529,7 +1937,43 @@
 - <details>
     <summary></summary>
     <p></p>
-  </details>v
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
+- <details>
+    <summary></summary>
+    <p></p>
+  </details>
 
 **[GO TO TOP](#programming-languages)**
 

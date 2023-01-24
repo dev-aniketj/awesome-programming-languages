@@ -6,9 +6,9 @@
 }
 .app {
   flex: 1;
-  position: absolute;
-  width: 100%;
+  width: "100%";
   height: 100vh;
+  padding: 20px;
   background-color: var(--main-color1);
 }
 
@@ -17,9 +17,30 @@
   font-size: xx-large;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  margin-top: 20px;
   letter-spacing: 0.5px;
 }
+
+.alphabets_container {
+  height: auto;
+  font-size: x-large;
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: var(--main-color2);
+  margin-top: 12px;
+  margin-left: 32px;
+  margin-right: 32px;
+  padding: 8px;
+  text-align: center;
+  background-color: var(--main-color4);
+}
+.alphabets_item {
+  margin: 12px;
+  /* background-color: chocolate; */
+}
+.alphabets_item:hover {
+  color: var(--main-color3);
+}
+
 .item_container {
   margin-top: 4px;
   margin-bottom: 4px;
@@ -30,9 +51,8 @@
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
-
 .item_desc {
-  color: var(--main-color3);
+  color: var(--main-color4);
   font-size: medium;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;

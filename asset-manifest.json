@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/awesome-programming-languages/static/css/main.f7ea93ce.css",
-    "main.js": "/awesome-programming-languages/static/js/main.246f309e.js",
+    "main.css": "/awesome-programming-languages/static/css/main.6c7b40ba.css",
+    "main.js": "/awesome-programming-languages/static/js/main.316c58ff.js",
     "static/js/787.84363d2f.chunk.js": "/awesome-programming-languages/static/js/787.84363d2f.chunk.js",
     "static/media/logo.svg": "/awesome-programming-languages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/awesome-programming-languages/index.html",
-    "main.f7ea93ce.css.map": "/awesome-programming-languages/static/css/main.f7ea93ce.css.map",
-    "main.246f309e.js.map": "/awesome-programming-languages/static/js/main.246f309e.js.map",
+    "main.6c7b40ba.css.map": "/awesome-programming-languages/static/css/main.6c7b40ba.css.map",
+    "main.316c58ff.js.map": "/awesome-programming-languages/static/js/main.316c58ff.js.map",
     "787.84363d2f.chunk.js.map": "/awesome-programming-languages/static/js/787.84363d2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7ea93ce.css",
-    "static/js/main.246f309e.js"
+    "static/css/main.6c7b40ba.css",
+    "static/js/main.316c58ff.js"
   ]
 }

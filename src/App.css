@@ -70,6 +70,7 @@
 .item_title {
   color: var(--main-color4);
   font-size: larger;
+  font-weight: 700;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   letter-spacing: 0.5px;

@@ -1,3 +1,7 @@
 export default function AlphabetsItem({ value = "" }) {
-  return <span className="alphabets_item">{value}</span>;
+  return (
+    <a href={"#" + value} className="alphabets_item">
+      {value}
+    </a>
+  );
 }

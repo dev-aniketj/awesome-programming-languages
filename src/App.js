@@ -1,8 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Heading from "./components/Heading";
-import Item from "./components/Item";
+import Item from "./components/Items/Item";
 import Alphabets from "./components/Alphabets";
+import Items from "./components/Items";
+import data from "./components/datafiles/data";
 
 function App() {
   return (
@@ -11,8 +13,8 @@ function App() {
 
       <Alphabets />
 
-      {/* <Item title="A1" desc="Hello World A1" />
-      <Item title="A2" desc="Hello World A2" /> */}
+      <Items data={data.a} value="A" />
+      <Items data={data.b} value="B" />
     </div>
   );
 }

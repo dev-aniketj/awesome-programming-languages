@@ -89,7 +89,6 @@
   margin-top: 8px;
   margin-bottom: 8px;
   letter-spacing: 0.85px;
-  word-spacing: 4px;
-  padding-left: 24px;
-  padding-right: 24px;
+  word-spacing: 2px;
+  padding-left: 8px;
 }

@@ -72,6 +72,8 @@
   font-size: larger;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  letter-spacing: 0.5px;
+  word-spacing: 2px;
 }
 
 .item_title:hover {
@@ -81,9 +83,13 @@
 
 .item_desc {
   color: var(--main-color4);
-  font-size: medium;
+  font-size: large;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  margin-top: auto;
-  margin-bottom: 4px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  letter-spacing: 0.85px;
+  word-spacing: 4px;
+  padding-left: 24px;
+  padding-right: 24px;
 }

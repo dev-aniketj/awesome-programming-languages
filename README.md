@@ -8,7 +8,7 @@
 
 <details>
   <summary>A.NET (A#/A sharp)</summary>
-  <p></p>
+  <p>A# is a port of the Ada programming language to the Microsoft .NET platform. A# is freely distributed by the Department of Computer Science at the United States Air Force Academy as a service to the Ada community under the terms of the GNU General Public License.</p>
 </details>
 <details>
   <summary>A-0 System</summary>

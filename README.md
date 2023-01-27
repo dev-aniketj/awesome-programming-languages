@@ -12,15 +12,15 @@
 </details>
 <details>
   <summary>A-0 System</summary>
-  <p></p>
+  <p>The A-0 system (Arithmetic Language version 0), written for the UNIVAC I, was an early compiler related tool developed for electronic computers. The A-0 functioned more as a loader or linker than the modern notion of a compiler. A program was specified as a sequence of subroutines and its arguments. The subroutines were identified by a numeric code and the arguments to the subroutines were written directly after each subroutine code. The A-0 system converted the specification into machine code that could be fed into the computer a second time to execute the said program.</p>
 </details>
 <details>
   <summary>A+ (A plus)</summary>
-  <p></p>
+  <p>A+ is a high-level, interactive, interpreted array programming language designed for numerically intensive applications, especially those found in financial applications. A+ provides an extended set of functions and operators, a graphical user interface with automatic synchronizing of widgets and variables, asynchronous executing of functions associated with variables and events, dynamic loading of user compiled subroutines, and other features.</p>
 </details>
 <details>
   <summary>ABAP</summary>
-  <p></p>
+  <p>ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP NetWeaver Application Server, which is part of the SAP NetWeaver platform for building business applications.</p>
 </details>
 <details>
   <summary>ABC</summary>
